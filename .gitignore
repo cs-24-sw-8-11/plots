@@ -1,3 +1,5 @@
 databases
 .direnv
 .envrc
+__pycache__
+db.db3
